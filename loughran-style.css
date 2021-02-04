@@ -1,0 +1,49 @@
+p {
+  font-family: 'Raleway', sans-serif;
+  color: #5b5b5b;
+  background-color: #d8c292;
+  font-size: 20px;
+  border: 6px #c19065;
+  text-align: center;
+}
+.arch {
+  background: #d8c292;
+  padding: 2px;
+}
+.dino {
+  background: #d8c292;
+}
+.sky {
+   border: 6px #d8c292;
+   padding: 2px;
+ }
+ .land {
+   text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+  color: #1687a7;
+  margin: 10px;
+ }
+ /*STYLE A LINK*/
+ a {
+   text-decoration: none;
+   text-transform: uppercase;
+   color: #b67171;
+   text-align: right;
+ }
+
+ /*STYLE THE WHOLE BODY*/
+ body {
+   background-color: #d8c292;
+ }
+
+ /*STYLE A HEADER*/
+ h1 {
+   color: black;
+   text-align: center;
+    padding: 2px;
+   border: 1px solid black;
+   background-color: #b67171;
+   text-shadow: 2px 2px 2px #c19065;
+     font-family: 'Pacifico', cursive;
+}
